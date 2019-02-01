@@ -1,0 +1,10 @@
+c:\users\dgraveli\documents\visual studio 2010\Projects\Project Number\Project Number\bin\Debug\Project Number.dll.config
+c:\users\dgraveli\documents\visual studio 2010\Projects\Project Number\Project Number\bin\Debug\Project Number.dll
+c:\users\dgraveli\documents\visual studio 2010\Projects\Project Number\Project Number\bin\Debug\Project Number.pdb
+c:\users\dgraveli\documents\visual studio 2010\Projects\Project Number\Project Number\bin\Debug\RightNow.AddIns.AddInViews.dll
+c:\users\dgraveli\documents\visual studio 2010\Projects\Project Number\Project Number\bin\Debug\RightNow.AddIns.AddInViews.xml
+c:\users\dgraveli\documents\visual studio 2010\Projects\Project Number\Project Number\obj\Debug\Project_Number.Properties.Resources.resources
+c:\users\dgraveli\documents\visual studio 2010\Projects\Project Number\Project Number\obj\Debug\Project Number.csproj.GenerateResource.Cache
+c:\users\dgraveli\documents\visual studio 2010\Projects\Project Number\Project Number\obj\Debug\Project Number.dll
+c:\users\dgraveli\documents\visual studio 2010\Projects\Project Number\Project Number\obj\Debug\Project Number.pdb
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\Project Number\Project Number\obj\Debug\Project Number.csprojResolveAssemblyReference.cache
